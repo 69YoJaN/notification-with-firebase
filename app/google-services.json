@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "962694261834",
+    "project_id": "fir-notifcaitonalert",
+    "storage_bucket": "fir-notifcaitonalert.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962694261834:android:ca18af3a6375a0d5f5cab3",
+        "android_client_info": {
+          "package_name": "com.example.firebasenotifcaitonalert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_Q8YxrfnWXzMnPbT183tlKgqZmzDuy4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
